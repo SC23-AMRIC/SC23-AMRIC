@@ -110,7 +110,7 @@ hdf5/1.12.2 (install scripts provided)
 
 ### Step 1: Download AMRIC, checkpoint files, and set up environmental variables (2 mins)
 ```
-git clone https://github.com/SC23-AMRIC/SC23-AMRIC.git
+git clone https://github.com/SC23-AMRIC-1/SC23-AMRIC.git
 cd SC23-AMRIC
 export AMRIC_HOME=$(pwd)
 echo "# start of AMRIC env" >> ~/.bashrc
